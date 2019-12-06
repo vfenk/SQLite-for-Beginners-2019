@@ -7,7 +7,7 @@ import android.graphics.Rect;
 import android.util.AttributeSet;
 import android.view.View;
 
-public class LinedEditText extends android.support.v7.widget.AppCompatEditText {
+public class LinedEditText extends androidx.appcompat.widget.AppCompatEditText {
 
     private static final String TAG = "LinedEditText";
 
